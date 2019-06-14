@@ -1,0 +1,3 @@
+C:/my/source/example1/build_mingw/CMakeFiles/helloWorld.dir
+C:/my/source/example1/build_mingw/CMakeFiles/edit_cache.dir
+C:/my/source/example1/build_mingw/CMakeFiles/rebuild_cache.dir
